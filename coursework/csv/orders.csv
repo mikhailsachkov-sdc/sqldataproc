@@ -1,0 +1,41 @@
+order_code,customer_email,order_date,status,payment_method,total_amount,shipping_city,shipping_country
+ORD-2023-0001,alice.johnson@email.com,2023-01-25 10:00:00,delivered,card,850.00,New York,United States
+ORD-2023-0002,bob.smith@email.com,2023-02-10 11:30:00,delivered,paypal,1045.99,Los Angeles,United States
+ORD-2023-0003,claire.dupont@email.com,2023-02-20 14:00:00,delivered,card,700.00,Paris,France
+ORD-2023-0004,dmitri.volkov@email.com,2023-03-08 09:30:00,delivered,bank_transfer,1100.00,Kyiv,Ukraine
+ORD-2023-0005,emma.wilson@email.com,2023-03-22 13:00:00,delivered,card,622.99,London,United Kingdom
+ORD-2023-0006,felix.mueller@email.com,2023-04-06 10:30:00,delivered,paypal,1800.00,Berlin,Germany
+ORD-2023-0007,grace.li@email.com,2023-04-21 15:00:00,delivered,card,550.00,Beijing,China
+ORD-2023-0008,hana.novak@email.com,2023-05-04 11:00:00,delivered,card,1241.99,Prague,Czech Republic
+ORD-2023-0009,ivan.perez@email.com,2023-05-19 14:30:00,delivered,paypal,900.00,Madrid,Spain
+ORD-2023-0010,julia.maki@email.com,2023-06-03 09:00:00,delivered,card,694.99,Helsinki,Finland
+ORD-2023-0011,kevin.brown@email.com,2023-06-17 12:00:00,delivered,card,620.00,Chicago,United States
+ORD-2023-0012,laura.rossi@email.com,2023-07-02 10:30:00,delivered,bank_transfer,1545.99,Rome,Italy
+ORD-2023-0013,marco.santos@email.com,2023-07-21 15:00:00,delivered,card,60.00,Sao Paulo,Brazil
+ORD-2023-0014,nina.kowalski@email.com,2023-08-06 11:00:00,delivered,paypal,1325.99,Warsaw,Poland
+ORD-2023-0015,oliver.berg@email.com,2023-08-23 14:00:00,delivered,card,25.00,Stockholm,Sweden
+ORD-2023-0016,paula.garcia@email.com,2023-09-11 09:30:00,delivered,card,1100.00,Mexico City,Mexico
+ORD-2023-0017,quinn.taylor@email.com,2023-09-26 13:00:00,delivered,paypal,150.00,Toronto,Canada
+ORD-2023-0018,rachel.kim@email.com,2023-10-09 10:00:00,delivered,card,1900.00,Seoul,South Korea
+ORD-2023-0019,samuel.white@email.com,2023-10-24 15:30:00,delivered,bank_transfer,340.00,Johannesburg,South Africa
+ORD-2023-0020,tina.horvat@email.com,2023-11-08 11:00:00,delivered,card,1350.00,Ljubljana,Slovenia
+ORD-2023-0021,ugo.lefevre@email.com,2023-11-23 14:00:00,delivered,paypal,750.00,Lyon,France
+ORD-2023-0022,vera.schmidt@email.com,2023-12-06 09:00:00,delivered,card,1245.49,Vienna,Austria
+ORD-2023-0023,william.jones@email.com,2023-12-21 12:00:00,delivered,card,1300.00,Houston,United States
+ORD-2023-0024,xenia.papadaki@email.com,2024-01-09 10:30:00,delivered,paypal,1135.98,Athens,Greece
+ORD-2023-0025,yannick.dubois@email.com,2024-01-26 14:00:00,delivered,card,220.00,Brussels,Belgium
+ORD-2024-0001,zoe.adams@email.com,2024-02-11 09:00:00,delivered,card,780.00,Sydney,Australia
+ORD-2024-0002,adam.walker@email.com,2024-02-29 11:30:00,delivered,paypal,497.99,Seattle,United States
+ORD-2024-0003,bella.ferrari@email.com,2024-03-16 14:00:00,delivered,card,908.99,Milan,Italy
+ORD-2024-0004,carlos.mendez@email.com,2024-04-02 10:00:00,delivered,bank_transfer,380.00,Buenos Aires,Argentina
+ORD-2024-0005,diana.chen@email.com,2024-04-19 13:30:00,delivered,card,1010.99,Taipei,Taiwan
+ORD-2024-0006,alice.johnson@email.com,2024-05-02 09:00:00,delivered,card,870.00,New York,United States
+ORD-2024-0007,bob.smith@email.com,2024-05-13 11:00:00,delivered,paypal,617.99,Los Angeles,United States
+ORD-2024-0008,claire.dupont@email.com,2024-05-22 14:30:00,delivered,card,670.00,Paris,France
+ORD-2024-0009,emma.wilson@email.com,2024-06-02 10:00:00,delivered,card,1187.98,London,United Kingdom
+ORD-2024-0010,felix.mueller@email.com,2024-06-11 13:00:00,delivered,card,570.00,Berlin,Germany
+ORD-2024-0011,kevin.brown@email.com,2024-07-01 09:30:00,processing,card,2059.99,Chicago,United States
+ORD-2024-0012,laura.rossi@email.com,2024-07-11 11:00:00,shipped,paypal,1390.98,Rome,Italy
+ORD-2024-0013,marco.santos@email.com,2024-07-20 14:00:00,shipped,card,110.00,Sao Paulo,Brazil
+ORD-2024-0014,nina.kowalski@email.com,2024-08-01 10:30:00,placed,bank_transfer,980.00,Warsaw,Poland
+ORD-2024-0015,oliver.berg@email.com,2024-08-12 13:00:00,placed,card,1207.98,Stockholm,Sweden

@@ -1,0 +1,26 @@
+product_code,product_name,category_name,supplier_name,unit_price,stock_qty,unit
+PRD-00001,Premium Dry Dog Food 10kg,Food,PawsNature Ltd,45.99,200,kg
+PRD-00002,Grain-Free Cat Food 5kg,Food,PawsNature Ltd,38.99,150,kg
+PRD-00003,Tropical Fish Flakes 100g,Food,AquaWorld Imports,6.99,500,piece
+PRD-00004,Reptile Pellets 500g,Food,ReptileHaven,12.99,120,piece
+PRD-00005,Budgie Seed Mix 1kg,Food,FeatherBest,8.49,300,piece
+PRD-00006,Small Animal Nuggets 900g,Food,BioFeed Europa,9.99,180,piece
+PRD-00007,Dog Chew Treats 250g,Food,PawsNature Ltd,7.99,400,piece
+PRD-00008,Cat Dental Treats 60g,Food,NaturePet Iberia,5.49,350,piece
+PRD-00009,Adjustable Dog Collar,Accessories,ZooCraft Supplies,14.99,250,piece
+PRD-00010,Retractable Dog Leash 5m,Accessories,ZooCraft Supplies,22.99,180,piece
+PRD-00011,Cat Harness and Leash Set,Accessories,ZooCraft Supplies,19.99,120,piece
+PRD-00012,Premium Dog Bed Large,Accessories,FurryFriends Co,59.99,80,piece
+PRD-00013,Cat Scratching Post 80cm,Accessories,FurryFriends Co,34.99,100,piece
+PRD-00014,Bird Cage Medium,Accessories,FeatherBest,79.99,60,piece
+PRD-00015,Aquarium Tank 60L,Accessories,AquaWorld Imports,89.99,40,piece
+PRD-00016,Reptile Terrarium 100x50,Accessories,ReptileHaven,149.99,25,piece
+PRD-00017,Small Animal Cage,Accessories,BioFeed Europa,44.99,70,piece
+PRD-00018,Interactive Dog Puzzle Toy,Toys,FurryFriends Co,18.99,200,piece
+PRD-00019,Cat Feather Wand,Toys,NaturePet Iberia,9.99,300,piece
+PRD-00020,Rope Tug Toy for Dogs,Toys,ZooCraft Supplies,11.99,250,piece
+PRD-00021,Catnip Mouse Set 3pcs,Toys,NaturePet Iberia,7.49,400,piece
+PRD-00022,Parrot Foraging Toy,Toys,FeatherBest,16.99,150,piece
+PRD-00023,Rabbit Tunnel Play Set,Toys,BioFeed Europa,24.99,90,piece
+PRD-00024,Dog Squeaky Toy Assorted,Toys,FurryFriends Co,8.99,350,piece
+PRD-00025,Aquarium Decoration Set,Accessories,AquaWorld Imports,29.99,110,piece

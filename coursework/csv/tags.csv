@@ -1,0 +1,15 @@
+tag_name,description
+vaccinated,Pet has received all required vaccinations
+neutered,Pet has been spayed or neutered
+microchipped,Pet has an implanted microchip for identification
+trained,Pet has completed basic obedience training
+hypoallergenic,Pet is suitable for people with allergies
+pedigree,Pet has documented purebred lineage
+indoor,Pet is suited for indoor living
+outdoor,Pet is suited for outdoor or mixed living
+rescue,Pet was rescued and rehabilitated
+senior,Pet is over 7 years old
+puppy,Dog under 1 year old
+kitten,Cat under 1 year old
+hand-raised,Pet was raised by hand from very young age
+show-quality,Pet meets breed show standards

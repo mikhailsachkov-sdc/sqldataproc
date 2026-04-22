@@ -1,0 +1,31 @@
+email,first_name,last_name,phone,city,country,registered_at
+alice.johnson@email.com,Alice,Johnson,+1-555-0101,New York,United States,2023-01-15 10:23:00
+bob.smith@email.com,Bob,Smith,+1-555-0102,Los Angeles,United States,2023-02-03 14:11:00
+claire.dupont@email.com,Claire,Dupont,+33-1-5501-0203,Paris,France,2023-02-18 09:45:00
+dmitri.volkov@email.com,Dmitri,Volkov,+380-50-555-0104,Kyiv,Ukraine,2023-03-07 16:30:00
+emma.wilson@email.com,Emma,Wilson,+44-20-5550-0105,London,United Kingdom,2023-03-21 11:00:00
+felix.mueller@email.com,Felix,Mueller,+49-30-5550-0106,Berlin,Germany,2023-04-05 08:20:00
+grace.li@email.com,Grace,Li,+86-10-5550-0107,Beijing,China,2023-04-19 13:55:00
+hana.novak@email.com,Hana,Novak,+420-2-5550-0108,Prague,Czech Republic,2023-05-02 17:40:00
+ivan.perez@email.com,Ivan,Perez,+34-91-5550-0109,Madrid,Spain,2023-05-17 10:10:00
+julia.maki@email.com,Julia,Maki,+358-9-5550-0110,Helsinki,Finland,2023-06-01 12:00:00
+kevin.brown@email.com,Kevin,Brown,+1-555-0111,Chicago,United States,2023-06-15 15:30:00
+laura.rossi@email.com,Laura,Rossi,+39-06-5550-0112,Rome,Italy,2023-07-01 09:00:00
+marco.santos@email.com,Marco,Santos,+55-11-5550-0113,Sao Paulo,Brazil,2023-07-20 14:45:00
+nina.kowalski@email.com,Nina,Kowalski,+48-22-5550-0114,Warsaw,Poland,2023-08-05 11:20:00
+oliver.berg@email.com,Oliver,Berg,+46-8-5550-0115,Stockholm,Sweden,2023-08-22 16:00:00
+paula.garcia@email.com,Paula,Garcia,+52-55-5550-0116,Mexico City,Mexico,2023-09-10 10:30:00
+quinn.taylor@email.com,Quinn,Taylor,+1-555-0117,Toronto,Canada,2023-09-25 13:15:00
+rachel.kim@email.com,Rachel,Kim,+82-2-5550-0118,Seoul,South Korea,2023-10-08 08:45:00
+samuel.white@email.com,Samuel,White,+27-11-5550-0119,Johannesburg,South Africa,2023-10-23 15:00:00
+tina.horvat@email.com,Tina,Horvat,+386-1-5550-0120,Ljubljana,Slovenia,2023-11-07 11:50:00
+ugo.lefevre@email.com,Ugo,Lefevre,+33-4-5550-0121,Lyon,France,2023-11-22 14:20:00
+vera.schmidt@email.com,Vera,Schmidt,+43-1-5550-0122,Vienna,Austria,2023-12-05 09:30:00
+william.jones@email.com,William,Jones,+1-555-0123,Houston,United States,2023-12-20 16:45:00
+xenia.papadaki@email.com,Xenia,Papadaki,+30-21-5550-0124,Athens,Greece,2024-01-08 10:05:00
+yannick.dubois@email.com,Yannick,Dubois,+32-2-5550-0125,Brussels,Belgium,2024-01-25 13:40:00
+zoe.adams@email.com,Zoe,Adams,+61-2-5550-0126,Sydney,Australia,2024-02-10 08:00:00
+adam.walker@email.com,Adam,Walker,+1-555-0127,Seattle,United States,2024-02-28 15:20:00
+bella.ferrari@email.com,Bella,Ferrari,+39-02-5550-0128,Milan,Italy,2024-03-15 11:10:00
+carlos.mendez@email.com,Carlos,Mendez,+54-11-5550-0129,Buenos Aires,Argentina,2024-04-01 14:00:00
+diana.chen@email.com,Diana,Chen,+886-2-5550-0130,Taipei,Taiwan,2024-04-18 09:50:00

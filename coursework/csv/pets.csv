@@ -1,0 +1,61 @@
+pet_code,pet_name,breed_name,age_months,gender,price,status,listed_at
+PET-00001,Buddy,Labrador Retriever,14,M,850.00,sold,2023-01-20 09:00:00
+PET-00002,Bella,Golden Retriever,8,F,950.00,sold,2023-01-22 10:30:00
+PET-00003,Max,German Shepherd,24,M,1100.00,sold,2023-02-01 11:00:00
+PET-00004,Luna,Persian,18,F,700.00,sold,2023-02-05 14:00:00
+PET-00005,Charlie,Beagle,6,M,600.00,sold,2023-02-14 09:30:00
+PET-00006,Milo,French Bulldog,10,M,1800.00,sold,2023-03-01 10:00:00
+PET-00007,Cleo,Siamese,12,F,550.00,sold,2023-03-10 13:00:00
+PET-00008,Rocky,Siberian Husky,20,M,1200.00,sold,2023-03-18 11:30:00
+PET-00009,Daisy,Poodle,7,F,900.00,sold,2023-04-02 09:00:00
+PET-00010,Simba,Maine Coon,15,M,650.00,sold,2023-04-11 14:30:00
+PET-00011,Nala,Bengal,9,F,800.00,sold,2023-04-20 10:00:00
+PET-00012,Thor,Dachshund,30,M,500.00,sold,2023-05-03 11:00:00
+PET-00013,Loki,Bearded Dragon,18,M,350.00,sold,2023-05-12 15:00:00
+PET-00014,Kiwi,Budgerigar,6,F,80.00,sold,2023-05-21 09:30:00
+PET-00015,Nemo,Clownfish,3,M,45.00,sold,2023-06-01 10:00:00
+PET-00016,Shadow,British Shorthair,22,M,620.00,sold,2023-06-10 13:30:00
+PET-00017,Coco,African Grey,36,F,1500.00,sold,2023-06-20 11:00:00
+PET-00018,Pepper,Guinea Pig,5,F,60.00,sold,2023-07-01 09:00:00
+PET-00019,Finn,Betta,2,M,25.00,sold,2023-07-10 14:00:00
+PET-00020,Ruby,Holland Lop,8,F,120.00,sold,2023-07-19 10:30:00
+PET-00021,Atlas,German Shepherd,6,M,1250.00,sold,2023-08-01 09:00:00
+PET-00022,Stella,Ragdoll,11,F,750.00,sold,2023-08-12 11:30:00
+PET-00023,Oscar,Goldfish,1,M,15.00,sold,2023-08-20 14:00:00
+PET-00024,Harley,Mixed Breed,36,M,200.00,sold,2023-09-02 09:30:00
+PET-00025,Rosie,Domestic Shorthair,14,F,150.00,sold,2023-09-14 10:00:00
+PET-00026,Duke,Labrador Retriever,18,M,800.00,sold,2023-09-25 11:00:00
+PET-00027,Misty,Sphynx,10,F,1100.00,sold,2023-10-05 14:30:00
+PET-00028,Gizmo,Syrian Hamster,4,M,40.00,sold,2023-10-16 09:00:00
+PET-00029,Pearl,Cockatiel,14,F,200.00,sold,2023-10-27 13:00:00
+PET-00030,Zeus,Ball Python,24,M,300.00,sold,2023-11-06 10:30:00
+PET-00031,Amber,Golden Retriever,5,F,1000.00,sold,2023-11-17 09:00:00
+PET-00032,Leo,Leopard Gecko,12,M,180.00,sold,2023-11-28 14:00:00
+PET-00033,Chloe,French Bulldog,7,F,1900.00,sold,2023-12-08 11:00:00
+PET-00034,Blaze,Siberian Husky,9,M,1300.00,sold,2023-12-19 10:00:00
+PET-00035,Tweety,Canary,8,M,90.00,sold,2023-12-28 13:30:00
+PET-00036,Nova,Bengal,6,F,850.00,sold,2024-01-08 09:00:00
+PET-00037,Bruno,Beagle,18,M,580.00,sold,2024-01-17 11:30:00
+PET-00038,Ivy,Chinchilla,10,F,220.00,sold,2024-01-26 14:00:00
+PET-00039,Bolt,Dachshund,14,M,490.00,sold,2024-02-05 09:30:00
+PET-00040,Willow,Ragdoll,8,F,780.00,sold,2024-02-15 10:00:00
+PET-00041,Flash,Neon Tetra,1,M,8.00,sold,2024-02-24 13:00:00
+PET-00042,Bella,Persian,16,F,720.00,sold,2024-03-05 09:00:00
+PET-00043,Rusty,Mixed Breed,48,M,180.00,sold,2024-03-14 11:00:00
+PET-00044,Mochi,Holland Lop,6,F,130.00,sold,2024-03-23 14:30:00
+PET-00045,Spike,Bearded Dragon,10,M,380.00,sold,2024-04-02 10:00:00
+PET-00046,Sky,Lovebird,9,F,110.00,sold,2024-04-11 09:30:00
+PET-00047,Hera,Poodle,12,F,920.00,sold,2024-04-20 13:00:00
+PET-00048,Titan,Labrador Retriever,10,M,870.00,sold,2024-05-01 11:00:00
+PET-00049,Cleo,Siamese,20,F,570.00,sold,2024-05-12 14:00:00
+PET-00050,Maple,Maine Coon,7,F,670.00,sold,2024-05-21 09:00:00
+PET-00051,Rex,German Shepherd,8,M,1150.00,pending,2024-06-01 10:30:00
+PET-00052,Sunny,Cockatiel,6,M,210.00,pending,2024-06-10 13:00:00
+PET-00053,Comet,Goldfish,2,M,18.00,available,2024-06-20 09:00:00
+PET-00054,Jade,Leopard Gecko,8,F,190.00,available,2024-07-01 11:30:00
+PET-00055,Diesel,French Bulldog,5,M,2000.00,available,2024-07-10 14:00:00
+PET-00056,Hazel,British Shorthair,14,F,640.00,available,2024-07-19 09:30:00
+PET-00057,Ace,Siberian Husky,6,M,1350.00,available,2024-08-01 10:00:00
+PET-00058,Pixie,Sphynx,8,F,1150.00,available,2024-08-12 13:00:00
+PET-00059,Bubbles,Betta,3,F,28.00,available,2024-08-21 11:00:00
+PET-00060,Bear,Golden Retriever,10,M,980.00,available,2024-09-01 09:00:00
