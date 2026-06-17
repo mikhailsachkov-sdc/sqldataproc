@@ -1,0 +1,50 @@
+[
+  {
+    "hotel_name": "Redisson",
+    "room": {
+      "room_id": 1,
+      "size": 30,
+      "capacity": 1,
+      "facilities": ["TV", "WiFi"]
+    },
+    "primary_guest": { "name": "Lucas", "birthday": "2000-06-01" },
+    "additional_guests": [],
+    "start_date": "2024-01-01",
+    "end_date": "2024-01-07",
+    "notes": null
+  },
+  {
+    "hotel_name": "Park Inn",
+    "room": {
+      "room_id": 4,
+      "size": 70,
+      "capacity": 4,
+      "facilities": ["TV", "WiFi", "Minibar"]
+    },
+    "primary_guest": { "name": "Hamilton", "birthday": "1980-01-01" },
+    "additional_guests": [
+      { "name": "Gery", "birthday": "2005-03-02" },
+      { "name": "Alisa", "birthday": "2010-03-08" },
+      { "name": "Enrika", "birthday": "1985-10-10" }
+    ],
+    "start_date": "2024-02-20",
+    "end_date": "2024-02-29",
+    "notes": "with a cat"
+  },
+  {
+    "hotel_name": "Redisson",
+    "room": {
+      "room_id": 3,
+      "size": 45,
+      "capacity": 2,
+      "facilities": ["Minibar", "WiFi"]
+    },
+    "primary_guest": { "name": "Enrika", "birthday": "1985-10-10" },
+    "additional_guests": [
+      { "name": "Lucas", "birthday": "2000-06-01" }
+    ],
+    "start_date": "2024-05-01",
+    "end_date": "2024-05-05",
+    "notes": "additional pillow"
+  }
+]

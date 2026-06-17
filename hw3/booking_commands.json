@@ -1,0 +1,19 @@
+find({ "primary_guest.name": "Lucas" });
+
+deleteOne({ "primary_guest.name": "Enrika" });
+
+updateOne(
+  { "primary_guest.name": "Lucas" },
+  { $set: { "notes": "will arrive at the hotel after 10 pm" } }
+);
+
+updateMany(
+  { "hotel_name": "Redisson", "room.facilities": "TV" },
+  { $set: { "room.facilities.$[elem]": "Flat-screen TV" } },
+  { arrayFilters: [{ "elem": "TV" }] }
+);
+
+aggregate([
+  { $group: { _id: "$hotel_name", totalBookings: { $sum: 1 } } }
+]);
+
